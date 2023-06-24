@@ -1,5 +1,7 @@
-package com.example.jazs24967nbp;
+package com.example.jazs24967nbp.Bank;
 
+import com.example.jazs24967nbp.Bank.Bank;
+import com.example.jazs24967nbp.Bank.BankRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,6 +1,8 @@
-package com.example.jazs24967nbp;
+package com.example.jazs24967nbp.Controller;
 
 
+import com.example.jazs24967nbp.Bank.Bank;
+import com.example.jazs24967nbp.Bank.BankService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;
@@ -11,8 +13,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
-
-import java.util.List;
 
 @Component
 @RestController

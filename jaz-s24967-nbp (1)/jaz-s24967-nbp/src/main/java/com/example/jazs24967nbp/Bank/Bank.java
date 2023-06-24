@@ -1,4 +1,4 @@
-package com.example.jazs24967nbp;
+package com.example.jazs24967nbp.Bank;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.persistence.Entity;

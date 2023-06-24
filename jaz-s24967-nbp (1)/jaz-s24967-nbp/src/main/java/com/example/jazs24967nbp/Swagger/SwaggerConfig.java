@@ -1,4 +1,4 @@
-package com.example.jazs24967nbp;
+package com.example.jazs24967nbp.Swagger;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Contact;
